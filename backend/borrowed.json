@@ -1,0 +1,126 @@
+﻿[
+    {
+        "id":  "B-1769751355171-kh93f",
+        "itemName":  "Dishwashing liquid",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T13:34",
+        "status":  "RETURNED",
+        "quantityBorrowed":  1,
+        "linkedItemId":  null,
+        "serialNumber":  "N/A",
+        "createdAt":  "2026-01-30T05:35:55.171Z",
+        "dateReturned":  "2026-01-30T05:39:45.471Z"
+    },
+    {
+        "id":  "B-1769751355171-7o5nh",
+        "itemName":  "Dell",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T13:34",
+        "status":  "RETURNED",
+        "quantityBorrowed":  1,
+        "linkedItemId":  1769744067941,
+        "serialNumber":  "6",
+        "createdAt":  "2026-01-30T05:35:55.171Z",
+        "dateReturned":  "2026-01-30T05:39:45.471Z"
+    },
+    {
+        "id":  "B-1769751355171-6uvvw",
+        "itemName":  "Dell",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T13:34",
+        "status":  "RETURNED",
+        "quantityBorrowed":  1,
+        "linkedItemId":  1769744067940,
+        "serialNumber":  "5",
+        "createdAt":  "2026-01-30T05:35:55.171Z",
+        "dateReturned":  "2026-01-30T05:39:45.471Z"
+    },
+    {
+        "id":  "B-1769751355171-vajxs",
+        "itemName":  "Dell",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T13:34",
+        "status":  "RETURNED",
+        "quantityBorrowed":  1,
+        "linkedItemId":  1769744067939,
+        "serialNumber":  "4",
+        "createdAt":  "2026-01-30T05:35:55.171Z",
+        "dateReturned":  "2026-01-30T05:39:45.471Z"
+    },
+    {
+        "id":  "B-1769751355171-tr9sa",
+        "itemName":  "Dell",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T13:34",
+        "status":  "RETURNED",
+        "quantityBorrowed":  1,
+        "linkedItemId":  1769744067938,
+        "serialNumber":  "3",
+        "createdAt":  "2026-01-30T05:35:55.171Z",
+        "dateReturned":  "2026-01-30T05:39:45.471Z"
+    },
+    {
+        "id":  "B-1769751355171-dkb3g",
+        "itemName":  "Dell",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T13:34",
+        "status":  "RETURNED",
+        "quantityBorrowed":  1,
+        "linkedItemId":  1769744067937,
+        "serialNumber":  "2",
+        "createdAt":  "2026-01-30T05:35:55.171Z",
+        "dateReturned":  "2026-01-30T05:39:45.471Z"
+    },
+    {
+        "id":  "B-1769748945144-xojz6",
+        "itemName":  "MSI (PC-01)",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T12:55",
+        "status":  "RETURNED",
+        "linkedUnitId":  1769741661509,
+        "linkedUnitCode":  "PC-01",
+        "quantityBorrowed":  1,
+        "createdAt":  "2026-01-30T04:55:45.144Z",
+        "dateReturned":  "2026-01-30T05:04:03.195Z",
+        "partsReport":  [
+                            {
+                                "partName":  "HDD(1TB)",
+                                "status":  "BROKEN",
+                                "remarks":  "Got broken while using"
+                            }
+                        ]
+    },
+    {
+        "id":  "B-1769745850332-mct3o",
+        "itemName":  "MSI (PC-02)",
+        "borrower":  "mak",
+        "event":  "meeting",
+        "dateBorrowed":  "2026-01-30T12:03",
+        "status":  "RETURNED",
+        "linkedUnitId":  1769743303683,
+        "linkedUnitCode":  "PC-02",
+        "quantityBorrowed":  1,
+        "createdAt":  "2026-01-30T04:04:10.332Z",
+        "dateReturned":  "2026-01-30T04:48:19.300Z"
+    },
+    {
+        "id":  1769745170589,
+        "itemName":  "Mop",
+        "borrower":  "mak",
+        "event":  "cleaning",
+        "dateBorrowed":  "2026-01-30T11:52",
+        "status":  "RETURNED",
+        "quantityBorrowed":  1,
+        "linkedItemId":  1769743733374,
+        "serialNumber":  "N/A",
+        "createdAt":  "2026-01-30T03:52:50.589Z",
+        "dateReturned":  "2026-01-30T03:53:12.320Z"
+    }
+]

@@ -1,0 +1,119 @@
+﻿[
+    {
+        "id":  1769741661509,
+        "code":  "PC-01",
+        "qrUrl":  "http://localhost:8084/?unit=PC-01",
+        "name":  "MSI",
+        "status":  "RECEIVED",
+        "parts":  [
+                      {
+                          "name":  "RAM",
+                          "serialNumber":  "213875381"
+                      },
+                      {
+                          "name":  "HDD(1TB)",
+                          "serialNumber":  "284492792"
+                      },
+                      {
+                          "name":  "SSD(256GB)",
+                          "serialNumber":  "838747488"
+                      }
+                  ],
+        "createdAt":  "1/30/2026",
+        "dateReceived":  "2026-01-30T02:54:40.108Z"
+    },
+    {
+        "id":  1769743303683,
+        "code":  "PC-02",
+        "qrUrl":  "http://localhost:8084/?unit=PC-02",
+        "name":  "MSI",
+        "status":  "RECEIVED",
+        "parts":  [
+                      {
+                          "name":  "RAM(32GB)",
+                          "serialNumber":  "24324657783"
+                      },
+                      {
+                          "name":  "HDD(1TB)",
+                          "serialNumber":  "12345676543"
+                      },
+                      {
+                          "name":  "SSD(256GB)",
+                          "serialNumber":  "87654345674"
+                      }
+                  ],
+        "createdAt":  "1/30/2026",
+        "dateReceived":  "2026-01-30T03:21:50.669Z"
+    },
+    {
+        "id":  1769744014389,
+        "code":  "PC-03",
+        "qrUrl":  "http://localhost:8084/?unit=PC-03",
+        "name":  "ACER",
+        "status":  "RECEIVED",
+        "parts":  [
+                      {
+                          "name":  "RAM(32GB)",
+                          "serialNumber":  "21342563234"
+                      },
+                      {
+                          "name":  "HDD(1TB)",
+                          "serialNumber":  "56434456433"
+                      },
+                      {
+                          "name":  "SSD(256GB)",
+                          "serialNumber":  "34565434547"
+                      }
+                  ],
+        "createdAt":  "1/30/2026",
+        "dateReceived":  "2026-01-30T03:47:15.594Z"
+    },
+    {
+        "id":  1769747934452,
+        "code":  "PC-04",
+        "qrUrl":  "http://localhost:8084/?unit=PC-04",
+        "name":  "ASUS",
+        "status":  "DRAFT",
+        "parts":  [
+                      {
+                          "name":  "RAM(32GB)",
+                          "serialNumber":  "23456765432"
+                      },
+                      {
+                          "name":  "HDD(1TB)",
+                          "serialNumber":  "98765456766"
+                      },
+                      {
+                          "name":  "SSD(256GB)",
+                          "serialNumber":  "98765467876"
+                      },
+                      {
+                          "name":  "CPU case",
+                          "serialNumber":  "N/A"
+                      }
+                  ],
+        "createdAt":  "1/30/2026"
+    },
+    {
+        "id":  1769747995910,
+        "code":  "PC-05",
+        "qrUrl":  "http://localhost:8084/?unit=PC-05",
+        "name":  "MSI",
+        "status":  "DRAFT",
+        "parts":  [
+                      {
+                          "name":  "RAM(32GB)",
+                          "serialNumber":  "363243654663"
+                      },
+                      {
+                          "name":  "HDD(1TB)",
+                          "serialNumber":  "763455734643"
+                      },
+                      {
+                          "name":  "SSD(256GB)",
+                          "serialNumber":  "456798765445"
+                      }
+                  ],
+        "createdAt":  "1/30/2026"
+    }
+]

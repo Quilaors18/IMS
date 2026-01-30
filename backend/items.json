@@ -1,0 +1,213 @@
+﻿[
+    {
+        "name":  "Mop",
+        "description":  "",
+        "category":  "Cleaning Supplies",
+        "quantity":  6,
+        "serialNumber":  "N/A",
+        "location":  "LAB",
+        "id":  1769743733374,
+        "enableLowStock":  true
+    },
+    {
+        "name":  "Dishwashing Liquid",
+        "description":  "Joy",
+        "category":  "Cleaning Supplies",
+        "quantity":  14,
+        "serialNumber":  "N/A",
+        "location":  "LAB",
+        "id":  1769743889063,
+        "enableLowStock":  true
+    },
+    {
+        "id":  1769744067937,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "2",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067938,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "3",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067939,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "4",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067940,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "5",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067941,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "6",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067942,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "7",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067943,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "8",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067944,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "9",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769744067945,
+        "name":  "Dell",
+        "description":  "Company Issued Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "10",
+        "location":  "LAB"
+    },
+    {
+        "id":  1769748094088,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "11",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094089,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "12",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094090,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "13",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094091,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "14",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094092,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "15",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094093,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "16",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094094,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "17",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094095,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "18",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094096,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "19",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "id":  1769748094097,
+        "name":  "ACER",
+        "description":  "Company Laptop",
+        "category":  "Laptop",
+        "quantity":  1,
+        "serialNumber":  "20",
+        "location":  "LAB",
+        "enableLowStock":  false
+    },
+    {
+        "name":  "A4TECH",
+        "description":  "Mouse",
+        "category":  "Accessory",
+        "quantity":  20,
+        "serialNumber":  "N/A",
+        "location":  "LAB",
+        "enableLowStock":  false,
+        "id":  1769748272381
+    }
+]
