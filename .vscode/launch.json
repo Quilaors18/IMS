@@ -1,7 +1,21 @@
 {
-    
     "version": "0.2.0",
+    "compounds": [
+        {
+            "name": "Run IMS App",
+            "configurations": ["PowerShell: Launch Server", "Launch Chrome against localhost"]
+        }
+    ],
     "configurations": [
+        {
+            "name": "PowerShell: Launch Server",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/backend/server.ps1",
+            "args": ["-ExecutionPolicy", "Bypass"],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal"
+        },
         {
             "type": "chrome",
             "request": "launch",

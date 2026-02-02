@@ -1,6 +1,6 @@
 $port = 8084
-$root = $PSScriptRoot
-$dataDir = Join-Path $root "backend"
+$root = Split-Path $PSScriptRoot -Parent
+$dataDir = $PSScriptRoot
 
 if (!(Test-Path $dataDir)) {
     New-Item -ItemType Directory -Force -Path $dataDir | Out-Null
@@ -14,9 +14,16 @@ foreach ($file in $dataFiles) {
     }
 }
 
-$listener = New-Object System.Net.HttpListener
-$listener.Prefixes.Add("http://localhost:$port/")
-$listener.Start()
+try {
+    $listener = New-Object System.Net.HttpListener
+    $listener.Prefixes.Add("http://localhost:$port/")
+    $listener.Start()
+} catch {
+    Write-Error "Failed to start server on port $port. Is another instance running?"
+    Write-Host "Please close any other PowerShell windows running the server."
+    Read-Host "Press Enter to exit..."
+    exit
+}
 
 Write-Host "Server started at http://localhost:$port/"
 Write-Host "Press Ctrl+C to stop."
